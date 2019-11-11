@@ -4,7 +4,7 @@
 
 - images — 存放项目图片
 - pages — 存放项目页面相关文件
-- utils — 存放utils文件，可require引入
+- utils — 存放utils文件，使用require引入
 
 ## 项目截图
 ![image](https://github.com/Jmhh/wxjdmall/blob/master/image/sc.png)
