@@ -19,7 +19,7 @@ Page({
    * 生命周期函数--监听页面加载
    */
   onLoad: function (options) {
-    api.productions((res) => {
+    api.getProductions((res) => {
       this.setData({
         navLeftItems: res.navLeftItems,
         navRightItems: res.navRightItems
