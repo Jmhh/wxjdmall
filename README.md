@@ -7,6 +7,7 @@
 - utils — 存放utils文件，可require引入
 
 ## 项目截图
+![image](https://github.com/Jmhh/wxjdmall/blob/master/image/sc.png)
 
 ## 开发环境
 微信web开发者工具
